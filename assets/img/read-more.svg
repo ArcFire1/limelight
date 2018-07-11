@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.375" height="21.37" viewBox="0 0 21.375 21.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Read_More_Arrow" data-name="Read More Arrow" class="cls-1" d="M531.552,2171.8a10.7,10.7,0,1,0-10.691-10.7A10.695,10.695,0,0,0,531.552,2171.8Zm0-19.72a9.02,9.02,0,1,1-9.021,9.02A9.022,9.022,0,0,1,531.552,2152.08Zm-1,13.7,4.677-4.68-4.677-4.67-1.337,1.33,3.341,3.34-3.341,3.35Z" transform="translate(-520.875 -2150.41)"/>
+</svg>
